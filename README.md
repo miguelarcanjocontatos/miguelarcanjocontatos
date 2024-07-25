@@ -1,6 +1,17 @@
-- 👋 Hi, I’m @miguelarcanjocontatos
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Iniciante na programação.
+
+Formação >>
+- Técnico em Informática
+- Técnico em Jogos Digitais
+- Graduando em Tecnologia da Informação pela UFRN
+
+Linguagens conhecidas >>
+- C
+- C++
+- Python
+- PHP
+
+Tecnologias utilizadas >>
+- Git
+- Docker
 
