@@ -31,8 +31,8 @@
 
 <div align="center">
   <a href="https://github.com/SEU-USUARIO">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miguelarcanjocontatos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelarcanjocontatos&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ## 📫 Entre em contato
@@ -45,4 +45,4 @@
 
 ---
 
-⭐️ Baseado em [SEU-NOME-AQUI](https://github.com/SEU-USUARIO)
+⭐️ Copyrights [miguelarcanjocontatos](https://github.com/miguelarcanjocontatos)
