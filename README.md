@@ -1,4 +1,4 @@
-# 👨‍💻 Desenvolvedor Full Stack Pleno
+# 👨‍💻 Miguel Arcanjo | Desenvolvedor Full Stack Pleno
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
@@ -29,20 +29,20 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div>
   <a href="https://github.com/miguelarcanjocontatos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miguelarcanjocontatos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelarcanjocontatos&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=miguelarcanjocontatos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=miguelarcanjocontatos&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ## 📫 Entre em contato
 
 <div> 
-  <a href="https://instagram.com/SEU-INSTAGRAM" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="mailto:SEU-EMAIL"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/miguelarcanjocontatos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="mailto:miguelarcanjocontatos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/miguelarcanjocontatos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 ---
 
-⭐️ Copyrights [miguelarcanjocontatos](https://github.com/miguelarcanjocontatos)
+⭐️ Desenvolvido por [Miguel Arcanjo](https://github.com/miguelarcanjocontatos)
